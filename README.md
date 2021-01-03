@@ -1,7 +1,7 @@
 # csv-intersection
 Print the intersection of two CSV files
 
-A very naive python script that compares every cell of one csv to every cell of another and returns the list of similar cells. More than sufficient for now and don’t need to worry about them changing the order of columns or anything.
+A naive python script that compares every cell of one csv to every cell of another and returns the list of similar cells. Thrown together to generate list of SPACs with options.
 
 Usage: 
 ```
