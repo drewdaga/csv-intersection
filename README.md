@@ -5,7 +5,7 @@ A very naive python script that compares every cell of one csv to every cell of 
 
 Usage: 
 ```
-drew@WINDOWS10:~/SVN/personal/python/csv_intersection$ python3 main.py test_data/CurrentSPACsasofOctober2020.csv  test_data/octoberOCCnewoptionmarketunderlyings.csv
+drew@WINDOWS10:~/csv-intersection$ python3 main.py test_data/CurrentSPACsasofOctober2020.csv  test_data/octoberOCCnewoptionmarketunderlyings.csv
 ```
 
 Test Usage:
